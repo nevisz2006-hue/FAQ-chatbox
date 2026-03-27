@@ -1,0 +1,5 @@
+{
+  "name": "Universal FAQ Chatbot",
+  "description": "A simple, responsive FAQ chatbot powered by Gemini AI that works across all platforms.",
+  "requestFramePermissions": []
+}
